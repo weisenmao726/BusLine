@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusLine</string>
+    <string name="app_queue">请输入城市、公交路线</string>
+
+</resources>
